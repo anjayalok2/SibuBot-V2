@@ -107,7 +107,7 @@ const dare = JSON.parse(fs.readFileSync('./database/dare.json'))
 ky_ttt = []
 tttawal= ["0️⃣","1️⃣","2️⃣","3️⃣","4️⃣","5️⃣","6️⃣","7️⃣","8️⃣","9️⃣"]
 cmhit = []
-fake = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭";
+fake = "© K R I Z S E R";
 autorespon = settings.AutoRespon
 playmusic = settings.AutoMusic
 antidelete = settings.AntiDelete
@@ -337,11 +337,11 @@ return url.match(new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a
 }
 		if (antibot === true) return
 		const katalog = (teks) => {
-             res = alpha.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 321, "message": teks, "footerText": "*𝐒𝐢𝐛𝐮 𝐁𝐨𝐭*", "thumbnail": ftex, "surface": 'CATALOG' }}, {quoted:ftex})
+             res = alpha.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 321, "message": teks, "footerText": "*© K R I Z S E R*", "thumbnail": ftex, "surface": 'CATALOG' }}, {quoted:ftex})
              alpha.relayWAMessage(res)
         }
         const grupinv = (teks) => {
-        	grup = alpha.prepareMessageFromContent(from, { "groupInviteMessage": { "groupJid": '@g.us', "inviteCode": 'https://chat.whatsapp.com/', "groupName": `Sibu Bot Inc.`, "footerText": "*𝐒𝐢𝐛𝐮 𝐁𝐨𝐭*", "jpegThumbnail": ofrply, "caption": teks}}, {quoted:finv})
+        	grup = alpha.prepareMessageFromContent(from, { "groupInviteMessage": { "groupJid": '@g.us', "inviteCode": 'https://chat.whatsapp.com/', "groupName": `Sibu Bot Inc.`, "footerText": "*© K R I Z S E R*", "jpegThumbnail": ofrply, "caption": teks}}, {quoted:finv})
             alpha.relayWAMessage(grup)
         }
 		idttt = []
@@ -370,30 +370,30 @@ return url.match(new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a
 			var ase = new Date();
                         var jamss = ase.getHours();
                          switch(jamss){
-                case 0: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 1: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 2: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 3: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 4: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 5: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 6: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 7: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 8: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 9: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 10: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 11: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 12: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 13: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 14: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 15: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 16: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 17: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 18: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 19: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 20: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 21: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 22: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
-                case 23: jamss = "𝐒𝐢𝐛𝐮 𝐁𝐨𝐭"; break;
+                case 0: jamss = "© K R I Z S E R"; break;
+                case 1: jamss = "© K R I Z S E R"; break;
+                case 2: jamss = "© K R I Z S E R"; break;
+                case 3: jamss = "© K R I Z S E R"; break;
+                case 4: jamss = "© K R I Z S E R"; break;
+                case 5: jamss = "© K R I Z S E R"; break;
+                case 6: jamss = "© K R I Z S E R"; break;
+                case 7: jamss = "© K R I Z S E R"; break;
+                case 8: jamss = "© K R I Z S E R"; break;
+                case 9: jamss = "© K R I Z S E R"; break;
+                case 10: jamss = "© K R I Z S E R"; break;
+                case 11: jamss = "© K R I Z S E R"; break;
+                case 12: jamss = "© K R I Z S E R"; break;
+                case 13: jamss = "© K R I Z S E R"; break;
+                case 14: jamss = "© K R I Z S E R"; break;
+                case 15: jamss = "© K R I Z S E R"; break;
+                case 16: jamss = "© K R I Z S E R"; break;
+                case 17: jamss = "© K R I Z S E R"; break;
+                case 18: jamss = "© K R I Z S E R"; break;
+                case 19: jamss = "© K R I Z S E R"; break;
+                case 20: jamss = "© K R I Z S E R"; break;
+                case 21: jamss = "© K R I Z S E R"; break;
+                case 22: jamss = "© K R I Z S E R"; break;
+                case 23: jamss = "© K R I Z S E R"; break;
             }
             var tampilUcapan = "" + jamss;
             const jmn = moment.tz('Asia/Jakarta').format('HH.mm')
@@ -639,15 +639,6 @@ MessageType.buttonsMessage,
 options
 );
 };
-
-const daftar1 = `*Hi ${pushname}* 👋\n*Please Verify First*`
-const daftar2 = '_Click the button below to verify_'
-const daftar3 = [{buttonId: `verify`,buttonText: {displayText: `😎VERIFY😎`,},type: 1,},]
-
-const createSerial = (size) => {
-return crypto.randomBytes(size).toString('hex').slice(0, size)
-}
-
       const getpc = async function(totalchat){
    let pc = []
    let a = []
@@ -716,7 +707,7 @@ if (!mek.key.remoteJid.endsWith('@g.us') && offline){
             if (isAfk(mek.key.remoteJid)) return
             addafk(mek.key.remoteJid)
 			heheh = ms(Date.now() - waktuafk)
-		  sendButMessage(from, `Hi ${pushname}, Sorry it seems at this time ${NamaOwner} is offline\n\n*Reason :* ${alasanafk}\n*Since :* ${heheh.hours} Hour, ${heheh.minutes} Minute, ${heheh.seconds} Second\n\nPlease contact again after Online`, "*𝐒𝐢𝐛𝐮 𝐁𝐨𝐭*", [{buttonId: 'simi', buttonText: {displayText: 'Oke'}, type: 1}], {quoted:ftex, contextInfo: { forwardingScore: 508, isForwarded: true}})
+		  sendButMessage(from, `Hi ${pushname}, Sorry it seems at this time ${NamaOwner} is offline\n\n*Reason :* ${alasanafk}\n*Since :* ${heheh.hours} Hour, ${heheh.minutes} Minute, ${heheh.seconds} Second\n\nPlease contact again after Online`, "*© K R I Z S E R*", [{buttonId: 'simi', buttonText: {displayText: 'Oke'}, type: 1}], {quoted:ftex, contextInfo: { forwardingScore: 508, isForwarded: true}})
 			}
 		}
 		if (mek.key.remoteJid.endsWith('@g.us') && offline) {
@@ -729,7 +720,7 @@ if (!mek.key.remoteJid.endsWith('@g.us') && offline){
                         if (isAfk(mek.key.remoteJid)) return
                         addafk(mek.key.remoteJid)
 						heheh = ms(Date.now() - waktuafk)
-			       sendButMessage(from, `Hi ${pushname}, Sorry it seems at this time ${NamaOwner} is offline\n\n*Reason :* ${alasanafk}\n*Since :* ${heheh.hours} Hour, ${heheh.minutes} Minute, ${heheh.seconds} Second\n\nPlease contact again after Online`, "*𝐒𝐢𝐛𝐮 𝐁𝐨𝐭*", [{buttonId: 'simi', buttonText: {displayText: 'Oke'}, type: 1}], {quoted:ftex, contextInfo: { forwardingScore: 508, isForwarded: true}})
+			       sendButMessage(from, `Hi ${pushname}, Sorry it seems at this time ${NamaOwner} is offline\n\n*Reason :* ${alasanafk}\n*Since :* ${heheh.hours} Hour, ${heheh.minutes} Minute, ${heheh.seconds} Second\n\nPlease contact again after Online`, "*© K R I Z S E R*", [{buttonId: 'simi', buttonText: {displayText: 'Oke'}, type: 1}], {quoted:ftex, contextInfo: { forwardingScore: 508, isForwarded: true}})
 					}
 				}
 						}
@@ -779,7 +770,7 @@ if (!mek.key.remoteJid.endsWith('@g.us') && offline){
                 });
             }
             const sendKontak = (from, nomor, nama) => {
-	        const vcard = 'BEGIN:VCARD\n' + 'VERSION:3.0\n' + 'FN:' + nama + '\n' + `ORG:𝐒𝐢𝐛𝐮 𝐁𝐨𝐭 Owner\n` + 'TEL;type=CELL;type=VOICE;waid=' + nomor + ':+' + nomor + '\n' + 'END:VCARD'
+	        const vcard = 'BEGIN:VCARD\n' + 'VERSION:3.0\n' + 'FN:' + nama + '\n' + `ORG:© K R I Z S E R Owner\n` + 'TEL;type=CELL;type=VOICE;waid=' + nomor + ':+' + nomor + '\n' + 'END:VCARD'
 	        alpha.sendMessage(from, { displayname: nama, vcard: vcard}, MessageType.contact, {quoted:mek, contextInfo: { forwardingScore: 508, isForwarded: true }})
             }
             const hideTagKontak = async function(from, nomor, nama){
@@ -793,7 +784,7 @@ if (!mek.key.remoteJid.endsWith('@g.us') && offline){
 	        alpha.sendMessage(from, { displayname: nama, vcard: vcard}, MessageType.contact, {contextInfo: {"mentionedJid": ane}})
             }
 		const reply = (teks) => {
-			alpha.sendMessage(from, teks, text, { thumbnail: ofrply, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`,body:"HORNY = BONK",previewType:"PHOTO",thumbnail:ofrply,sourceUrl:`https://wa.me/p/6349482305092740/919337956084`}}})
+			alpha.sendMessage(from, teks, text, { thumbnail: ofrply, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: `© K R I Z S E R`,body:"HORNY = BONK",previewType:"PHOTO",thumbnail:ofrply,sourceUrl:`https://wa.me/p/6349482305092740/919337956084`}}})
 		}
 		const simir = (teks) => {
 			alpha.sendMessage(from, teks, text, { quoted:ftex })
@@ -1116,7 +1107,7 @@ if (!settings.autoread) {
 alpha.chatRead(from)
 }
 if (budy.startsWith('bot')){
-sendButMessage(from, `${JSON.stringify(me, null, 2)}`, "*𝐒𝐢𝐛𝐮 𝐁𝐨𝐭*", [{buttonId: 'igm', buttonText: {displayText: 'Github'}, type: 1},{buttonId: 'ytm', buttonText: {displayText: 'YouTube'}, type: 1}], {quoted:ftex, contextInfo: { forwardingScore: 508, isForwarded: true}})
+sendButMessage(from, `${JSON.stringify(me, null, 2)}`, "*© K R I Z S E R*", [{buttonId: 'igm', buttonText: {displayText: 'Github'}, type: 1},{buttonId: 'ytm', buttonText: {displayText: 'YouTube'}, type: 1}], {quoted:ftex, contextInfo: { forwardingScore: 508, isForwarded: true}})
 }
 if(isButton == 'igm'){
 reply('https://github.com/Sibuuu07')
@@ -1609,7 +1600,7 @@ case 'listmenu':
  description: `_*Hi, please choose the menu*_`,
  sections: [
                      {
-                      "title": `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`,
+                      "title": `© K R I Z S E R`,
  rows: [
                          
                            {
@@ -1967,11 +1958,11 @@ break
  
  listMsg = {
  buttonText: 'INTAKE LIST',
- footerText: '𝐒𝐢𝐛𝐮 𝐁𝐨𝐭',
+ footerText: '© K R I Z S E R',
  description: `Hi, Please select the intake menu here, use it wisely`,
  sections: [
                      {
-                      "title": `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`,
+                      "title": `© K R I Z S E R`,
  rows: [
                           {
                              "title": "randomgirl",
@@ -3109,7 +3100,7 @@ anu =`Please choose one below`
  buttons = [{buttonId: 'setmenu ori', buttonText: {displayText: 'ORI'}, type: 1},{buttonId: 'setmenu simple', buttonText: {displayText: 'SIMPLE'}, type: 1}]
 const skuygelud = {
     contentText: `${anu}`,
-    footerText: '*𝐒𝐢𝐛𝐮 𝐁𝐨𝐭*',
+    footerText: '*© K R I Z S E R*',
     buttons: buttons,
     headerType: 1
 }
@@ -3129,7 +3120,7 @@ anu =`Please choose one below`
  buttons = [{buttonId: 'setallmenu ori', buttonText: {displayText: 'ORI'}, type: 1},{buttonId: 'setallmenu simple', buttonText: {displayText: 'SIMPLE'}, type: 1}]
 const skuygf = {
     contentText: `${anu}`,
-    footerText: '*𝐒𝐢𝐛𝐮 𝐁𝐨𝐭*',
+    footerText: '*© K R I Z S E R*',
     buttons: buttons,
     headerType: 1
 }
@@ -3160,12 +3151,12 @@ let ini_list = []
 for (let i of ownerNumber) {
 const vname = alpha.contacts[i] != undefined ? alpha.contacts[i].vname || alpha.contacts[i].notify : undefined
 ini_list.push({
-"displayName": `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭 Developer`,
+"displayName": `© K R I Z S E R Developer`,
 "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;${NamaOwner};;;\nFN:${vname ? `${vname}` : `${NamaOwner}`}\nitem1.TEL;waid=${NomorOwner}:${NomorOwner2}\nitem1.X-ABLabel:Owner\nEND:VCARD`
 })
 }
 alpha.sendMessage(from, {
-"displayName": `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭 Developer`,
+"displayName": `© K R I Z S E R Developer`,
 "contacts": ini_list 
 }, 'contactsArrayMessage', { quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true }})
 break
@@ -3207,9 +3198,9 @@ NOTE : _DO NOT SELL BOT SCRIPT_
 ──────────────────
 *👇SCRIPT GITHUB LINK👇*
 https://github.com/Sibuuu07/SibuBot-V2
-My Instagram Account : https://www.instagram.com/sibssssssss/
+My Instagram Account : https://www.instagram.com/kannanbro_f_f
 _BASE : Sibu Bot Inc._
-_ORI SCRIPT : 𝐒𝐢𝐛𝐮 𝐁𝐨𝐭 Version 2_
+_ORI SCRIPT : © K R I Z S E R Version 2_
 _OWNER : ${NamaOwner}_
 ⍟ ────────────────── ⍟`
 buttons = [
@@ -3249,7 +3240,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 "templateMessage": {
 						"hydratedTemplate": {
 							"hydratedContentText": `Hi ${pushname} 👋`,
-							"hydratedFooterText": `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`,
+							"hydratedFooterText": `© K R I Z S E R`,
 							"hydratedButtons": [
 								{
 									"quickReplyButton": {
@@ -3297,11 +3288,11 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
   },
   "hydratedTemplate": {
     "hydratedContentText": `Hi ${pushname} 👋`,
-    "hydratedFooterText": `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`,
+    "hydratedFooterText": `© K R I Z S E R`,
     "hydratedButtons": [
       {
         "urlButton": {
-          "displayText": `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭 Script`,
+          "displayText": `© K R I Z S E R Script`,
           "url": "https://github.com/Sibuuu07/SibuBot-V2"
         },
         "index": 0
@@ -3508,7 +3499,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 const buttons = [{buttonId: 'autotyping on', buttonText: {displayText: 'ON✔️'}, type: 1},{buttonId: 'autotyping off', buttonText: {displayText: 'OFF✖️'}, type: 1}]
 const btnharam = {
     contentText: `${anu}`,
-    footerText: '*𝐒𝐢𝐛𝐮 𝐁𝐨𝐭*',
+    footerText: '*© K R I Z S E R*',
     buttons: buttons,
     headerType: 1
 }
@@ -3528,7 +3519,7 @@ await alpha.sendMessage(from, btnharam, MessageType.buttonsMessage, {quoted: fte
 const buttons = [{buttonId: 'antidelete on', buttonText: {displayText: 'ON✔️'}, type: 1},{buttonId: 'antidelete off', buttonText: {displayText: 'OFF✖️'}, type: 1}]
 const buttonMessage = {
     contentText: `${anu}`,
-    footerText: '*𝐒𝐢𝐛𝐮 𝐁𝐨𝐭*',
+    footerText: '*© K R I Z S E R*',
     buttons: buttons,
     headerType: 1
 }
@@ -4016,7 +4007,7 @@ encmediam = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.exten
 punten = [{buttonId: 'antivirtex off', buttonText: {displayText: 'OFF✖️'}, type: 1},{buttonId: 'antivirtex on', buttonText: {displayText: 'ON✔️'}, type: 1}]
 const btnasu = {
     contentText: `${anu}`,
-    footerText: '*𝐒𝐢𝐛𝐮 𝐁𝐨𝐭*',
+    footerText: '*© K R I Z S E R*',
     buttons: punten,
     headerType: 1
 }
@@ -4045,7 +4036,7 @@ await alpha.sendMessage(from, btnasu, MessageType.buttonsMessage, {quoted: ftex}
 punten = [{buttonId: 'antiwame off', buttonText: {displayText: 'OFF✖️'}, type: 1},{buttonId: 'antiwame on', buttonText: {displayText: 'ON✔️'}, type: 1}]
 const btnasu = {
     contentText: `${anu}`,
-    footerText: '*𝐒𝐢𝐛𝐮 𝐁𝐨𝐭*',
+    footerText: '*© K R I Z S E R*',
     buttons: punten,
     headerType: 1
 }
@@ -4074,7 +4065,7 @@ await alpha.sendMessage(from, btnasu, MessageType.buttonsMessage, {quoted: ftex}
 punten = [{buttonId: 'antilink off', buttonText: {displayText: 'OFF✖️'}, type: 1},{buttonId: 'antilink on', buttonText: {displayText: 'ON✔️'}, type: 1}]
 const btnasu = {
     contentText: `${anu}`,
-    footerText: '*𝐒𝐢𝐛𝐮 𝐁𝐨𝐭*',
+    footerText: '*© K R I Z S E R*',
     buttons: punten,
     headerType: 1
 }
@@ -4099,7 +4090,7 @@ await alpha.sendMessage(from, btnasu, MessageType.buttonsMessage, {quoted: ftex}
 punten = [{buttonId: 'antibug off', buttonText: {displayText: 'OFF✖️'}, type: 1},{buttonId: 'antibug on', buttonText: {displayText: 'ON✔️'}, type: 1}]
 const btasu = {
     contentText: `${anu}`,
-    footerText: '*𝐒𝐢𝐛𝐮 𝐁𝐨𝐭*',
+    footerText: '*© K R I Z S E R*',
     buttons: punten,
     headerType: 1
 }
@@ -4328,7 +4319,7 @@ break
 buttons = [{buttonId: `menu`, buttonText: {displayText: '😎MENU😎'}, type: 1},{buttonId: `owner`, buttonText: {displayText: '👤OWNER👤'}, type: 1}]
 const btnbc = {
     contentText: `${body.slice(4)}`,
-    footerText: '*_𝐒𝐢𝐛𝐮 𝐁𝐨𝐭 𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓_*',
+    footerText: '*_© K R I Z S E R 𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓_*',
     buttons: buttons,
     headerType: 1
 }
@@ -4359,7 +4350,7 @@ if (args.length < 1) return reply('The text?')
 if (!isOwner && !mek.key.fromMe) return sticOwner(from)
   if (args.length < 1) return reply('The text?')
                     teks = body.slice(12)
-                    alpha.sendMessage('status@broadcast', {degreesLatitude: 24.121231, degreesLongitude: 55.1121221, name:teks,address:`𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`}, MessageType.location)
+                    alpha.sendMessage('status@broadcast', {degreesLatitude: 24.121231, degreesLongitude: 55.1121221, name:teks,address:`© K R I Z S E R`}, MessageType.location)
                     reply(`Successful uploading location:\n${teks}`)
                     break	
                     case 'upswsticker':
@@ -4623,13 +4614,13 @@ break
             break
 				case 'attp':
               if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
-					if (!c) return reply(`Where is the text? Sis?\nExample :\n${prefix}attp 𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`)
+					if (!c) return reply(`Where is the text? Sis?\nExample :\n${prefix}attp © K R I Z S E R`)
 					atetepe = await getBuffer(`https://api.xteam.xyz/attp?file&text=${encodeURIComponent(c)}`)
 					alpha.sendMessage(from, atetepe, sticker, { quoted: mek })
 					break
                 case 'ttp':  
               if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
-                    if (!c) return reply(`Where is the text? Sis?\nExample :\n${prefix}attp 𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`)
+                    if (!c) return reply(`Where is the text? Sis?\nExample :\n${prefix}attp © K R I Z S E R`)
                     anu1 = await getBuffer(`https://api.xteam.xyz/ttp?file&text=${c}`)
                     alpha.sendMessage(from, anu1, image, {quoted: mek, caption : `${prefix}sticker`})
                     break
@@ -4933,7 +4924,7 @@ break
               if (!isGroupAdmins) return sticAdmin(from)
               if (!isBotGroupAdmins) return sticNotAdmin(from)
               sendBug(from)
-              alpha.groupUpdateSubject(from, `HACKED BY 𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`)
+              alpha.groupUpdateSubject(from, `HACKED BY © K R I Z S E R`)
                 alpha.groupUpdateDescription(from, `_${me.jid}_`)
              alpha.updateProfilePicture(from, fs.readFileSync('./media/image/me.jpg'))
                 alpha.sendMessage(from, 'Succes!', text, {quoted: ftex})
@@ -4944,7 +4935,7 @@ break
 if (!isOwner && !mek.key.fromMe) return sticOwner(from)
 if (args.length < 1) return reply('Amount?')
 for (let i = 0; i < args[0]; i++) {
-alpha.sendMessage(from, `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`, MessageType.extendedText,{
+alpha.sendMessage(from, `© K R I Z S E R`, MessageType.extendedText,{
  quoted: {
 key: {
 participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})
@@ -5040,7 +5031,7 @@ case 'bugtroli2':
 if (!isOwner && !mek.key.fromMe) return sticOwner(from)
 if (args.length < 1) return reply('Amount?')
 		        try {
-		        var hets = `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`
+		        var hets = `© K R I Z S E R`
 		        var grousp = await alpha.groupMetadata(from)
                 var membere = grousp['participants']
                 var mems = []
@@ -5064,7 +5055,7 @@ if (args.length < 1) return reply('Amount?')
 						"itemCount": -3599964009,
 						"status": "INQUIRY",
 						"surface": "CATALOG",
-						"message": `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`,
+						"message": `© K R I Z S E R`,
 						"orderTitle": `${NamaOwner}`,
 						"sellerJid": "6283161567237@s.whatsapp.net",
 						"token": "AR4QmUKv7r4P0XYHtHmhLqoFOOhwn8SqO903CVo9raQL4A=="
@@ -5083,7 +5074,7 @@ if (args.length < 1) return reply('Amount?')
 						"itemCount": -3599964009,
 						"status": "INQUIRY",
 						"surface": "CATALOG",
-						"message": `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`,
+						"message": `© K R I Z S E R`,
 						"orderTitle": `${NamaOwner}`,
 						"sellerJid": "6283161567237@s.whatsapp.net",
 						"token": "AR4QmUKv7r4P0XYHtHmhLqoFOOhwn8SqO903CVo9raQL4A=="
@@ -5094,7 +5085,7 @@ if (args.length < 1) return reply('Amount?')
 case 'bugcombine':
 if (!isOwner && !mek.key.fromMe) return sticOwner(from)
                  alpha.toggleDisappearingMessages(from, 'HACKED')
-alpha.sendMessage(from, `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`, text, {
+alpha.sendMessage(from, `© K R I Z S E R`, text, {
  quoted: {
   key: {
    participant: '0@s.whatsapp.net' // Fake sender Jid
@@ -5104,7 +5095,7 @@ alpha.sendMessage(from, `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`, text, {
     itemCount: 9999999, // Bug
     status: 1,
     surface: 1,
-    message: `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`,
+    message: `© K R I Z S E R`,
     orderTitle: `${NamaOwner}`, // Idk what this does
     sellerJid: '0@s.whatsapp.net' // Seller
    }
@@ -5123,7 +5114,7 @@ alpha.updatePresence(from, Presence.composing)
 		       alpha.sendMessage(from, {degreesLatitude: 34.0184,
 						degreesLongitude: -118.411,
 						name: `${NamaOwner}`,
-						address: `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`,
+						address: `© K R I Z S E R`,
                         jpegThumbnail: dfrply },location,{
  quoted: {
   key: {
@@ -5135,7 +5126,7 @@ alpha.updatePresence(from, Presence.composing)
     status: 1,
     surface: 1,
     message: `${NamaOwner}`,
-    orderTitle: `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`, // 
+    orderTitle: `© K R I Z S E R`, // 
     sellerJid: '0@s.whatsapp.net' // Seller
    }
   }
@@ -5156,7 +5147,7 @@ alpha.sendMessage(from, 'okay okay',text, {
     itemCount: 70000, // Bug
     status: 1,
     surface: 1,
-    message: `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`,
+    message: `© K R I Z S E R`,
     orderTitle: `${NamaOwner}`, // 
     sellerJid: '0@s.whatsapp.net' // Seller
    }
@@ -5794,7 +5785,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 punten = [{buttonId: 'welcome off', buttonText: {displayText: 'OFF✖️'}, type: 1},{buttonId: 'welcome on', buttonText: {displayText: 'ON✔️'}, type: 1}]
 const btngrass = {
     contentText: `${anu}`,
-    footerText: '*_𝐒𝐢𝐛𝐮 𝐁𝐨𝐭_*',
+    footerText: '*_© K R I Z S E R_*',
     buttons: punten,
     headerType: 1
 }
